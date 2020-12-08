@@ -38,6 +38,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/RobbieVerdurme/Discord-portal-bot/pull/1) in [RobbieVerdurme/Discord-portal-bot](https://github.com/RobbieVerdurme/Discord-portal-bot)
+2. 🎉 Merged PR [#30](https://github.com/RobbieVerdurme/Personal_Site/pull/30) in [RobbieVerdurme/Personal_Site](https://github.com/RobbieVerdurme/Personal_Site)
 <!--END_SECTION:activity-->
 
 </details>
