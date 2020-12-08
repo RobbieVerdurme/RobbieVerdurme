@@ -1,10 +1,13 @@
-### Hi there, I'm [Robbie Verdurme][website] 👋
+
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <a href="https://robbieverdurme.github.io/Personal_Site/">Robbie Verdurme</a> </h1>
+<h3 align="center"> Junior developer from Belgium</h3>
 
 [![Website](https://img.shields.io/website?label=RobbieVerdurme&style=for-the-badge&url=https://robbieverdurme.github.io/Personal_Site/)](https://robbieverdurme.github.io/Personal_Site/)
+![pv](https://pageview.vercel.app/?github_user=RobbieVerdurme)
 
----
-## I'm a Junior Developer
 - :star: I’m currently learning on the job
+- :speech_balloon: Ask me about anything, I am happy to help
+- :mailbox: How to reach me : robbievrdrm@gmail.com
 - :zap: Fun fact: I love to play MOBA games and write some code in my free time
 
 ### Connect with me:
@@ -18,6 +21,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
