@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://robbieverdurme.github.io/Personal_Site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Robbie Verdurme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Robbie Verdurme | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="https://robbieverdurme.github.io/Personal_Site/" width="22px" src="https://camo.githubusercontent.com/9f9d124d411068111c0c4707b245a3461c5c1171f7310b802c1be1353c68c93d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6368726f6d652e737667" />][website]
+[<img align="left" alt="Robbie Verdurme | LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
+[<img align="left" alt="Robbie Verdurme | Facebook" width="22px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />][facebook]
 
 <br />
 
@@ -38,25 +38,23 @@
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <br />
-<br />
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+### :scroll: Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/RobbieVerdurme/Discord-portal-bot/pull/1) in [RobbieVerdurme/Discord-portal-bot](https://github.com/RobbieVerdurme/Discord-portal-bot)
 2. 🎉 Merged PR [#30](https://github.com/RobbieVerdurme/Personal_Site/pull/30) in [RobbieVerdurme/Personal_Site](https://github.com/RobbieVerdurme/Personal_Site)
 <!--END_SECTION:activity-->
 
-</details>
+### :bar_chart: GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RobbieVerdurme&show_icons=true&theme=buefy" alt="my github stats" width="420"/>
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobbieVerdurme&layout=compact" alt="languages" height="165">
+</p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="RobbieVerdurme's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RobbieVerdurme&show_icons=true&hide_border=true" />
-
-</details>
+<a href="https://github.com/RobbieVerdurme" alt="https://github.com/RobbieVerdurme"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=RobbieVerdurme"></a>
 
 [website]: https://robbieverdurme.github.io/Personal_Site/
 [facebook]: https://www.facebook.com/robbie.verdurme
