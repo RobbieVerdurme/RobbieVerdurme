@@ -7,6 +7,7 @@
 
 - :star: I’m currently learning on the job
 - :speech_balloon: Ask me about anything, I am happy to help
+- :sparkles: I’m looking for some cool project ideas
 - :mailbox: How to reach me : robbievrdrm@gmail.com
 - :zap: Fun fact: I love to play MOBA games and write some code in my free time
 
