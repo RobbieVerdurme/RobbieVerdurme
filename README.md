@@ -43,8 +43,8 @@
 ---
 ### :scroll: Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/RobbieVerdurme/Personal_Site/pull/32) in [RobbieVerdurme/Personal_Site](https://github.com/RobbieVerdurme/Personal_Site)
-2. 💪 Opened PR [#32](https://github.com/RobbieVerdurme/Personal_Site/pull/32) in [RobbieVerdurme/Personal_Site](https://github.com/RobbieVerdurme/Personal_Site)
+1. 🎉 Merged PR [#33](https://github.com/RobbieVerdurme/Personal_Site/pull/33) in [RobbieVerdurme/Personal_Site](https://github.com/RobbieVerdurme/Personal_Site)
+2. 🎉 Merged PR [#32](https://github.com/RobbieVerdurme/Personal_Site/pull/32) in [RobbieVerdurme/Personal_Site](https://github.com/RobbieVerdurme/Personal_Site)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: GitHub Stats
