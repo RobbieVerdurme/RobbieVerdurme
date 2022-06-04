@@ -3,7 +3,7 @@ name: GitHub - Activity - Readme
 on:
   schedule:
     # Runs every day
-    - cron: "0 0 * * 1-5"
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
