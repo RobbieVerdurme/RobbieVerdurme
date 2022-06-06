@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <a href="https://robbieverdurme.github.io/Personal_Site/">Robbie Verdurme</a> </h1>
-<h3 align="center"> Junior developer from Belgium</h3>
+<h3 align="center"> Developer from Belgium</h3>
 
 [![Website](https://img.shields.io/website?label=RobbieVerdurme&style=for-the-badge&url=https://robbieverdurme.github.io/Personal_Site/)](https://robbieverdurme.github.io/Personal_Site/)
 ![pv](https://pageview.vercel.app/?github_user=RobbieVerdurme)
