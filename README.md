@@ -2,7 +2,10 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <a href="https://robbieverdurme.github.io/Personal_Site/">Robbie Verdurme</a> </h1>
 <h3 align="center"> Developer from Belgium</h3>
 
-[![Website](https://img.shields.io/website?label=RobbieVerdurme&style=for-the-badge&url=https://robbieverdurme.github.io/Personal_Site/)](https://robbieverdurme.github.io/Personal_Site/)
+[![
+
+
+](https://img.shields.io/website?label=RobbieVerdurme&style=for-the-badge&url=https://robbieverdurme.github.io/Personal_Site/)](https://robbieverdurme.github.io/Personal_Site/)
 ![pv](https://pageview.vercel.app/?github_user=RobbieVerdurme)
 
 - :star: I’m currently learning on the job
@@ -38,24 +41,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<br />
-
----
-### :scroll: Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/RobbieVerdurme/Personal_Site/pull/55) in [RobbieVerdurme/Personal_Site](https://github.com/RobbieVerdurme/Personal_Site)
-2. 🎉 Merged PR [#56](https://github.com/RobbieVerdurme/Personal_Site/pull/56) in [RobbieVerdurme/Personal_Site](https://github.com/RobbieVerdurme/Personal_Site)
-<!--END_SECTION:activity-->
-
-### :bar_chart: GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RobbieVerdurme&show_icons=true&theme=buefy" alt="my github stats" width="420"/>
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobbieVerdurme&layout=compact" alt="languages" height="165">
-</p>
-
----
-
-<a href="https://github.com/RobbieVerdurme" alt="https://github.com/RobbieVerdurme"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=RobbieVerdurme"></a>
 
 [website]: https://robbieverdurme.github.io/Personal_Site/
 [facebook]: https://www.facebook.com/robbie.verdurme
