@@ -35,12 +35,14 @@
 </p>
 
 ### Connect with me:
-[<img align="left" alt="[Robbie Verdurme | Personal Website](https://robbieverdurme.github.io/Personal_Site/)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />][website]
-[<img align="left" alt="Robbie Verdurme | Facebook](https://www.facebook.com/robbie.verdurme)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />][linkedin]
-[<img align="left" alt="[Robbie Verdurme | LinkedIn](https://www.linkedin.com/in/robbie-verdurme)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />][facebook]
+[<img align="left" alt="Robbie Verdurme | Facebook](https://www.facebook.com/robbie.verdurme)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />][discord]
+[<img align="left" alt="Robbie Verdurme | Facebook](https://www.facebook.com/robbie.verdurme)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />][facebook]
+[<img align="left" alt="[Robbie Verdurme | LinkedIn](https://www.linkedin.com/in/robbie-verdurme)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />][linkedin]
 
 </br>
 
 [website]: https://robbieverdurme.github.io/Personal_Site/
 [facebook]: https://www.facebook.com/robbie.verdurme
 [linkedin]: https://www.linkedin.com/in/robbie-verdurme/
+[discord]: https://discord.com/users/boeferrob
+
