@@ -1,13 +1,15 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/>, I'm <a href="https://robbieverdurme.github.io/Personal_Site/"> Robbie Verdurme</a></h1>
 <h3 align="center"> Developer</h3>
 
-* 🌍  I'm based in Herzele, Belgium
-* 🖥️  See my portfolio at [my website](http://robbieverdurme.github.io/Personal_Site)
-* 🧠  I'm learning on the job
+![pv](https://pageview.vercel.app/?github_user=RobbieVerdurme)
+
+* :earth_africa:  I'm based in Herzele, Belgium
+* :computer:  See my portfolio at [my website](http://robbieverdurme.github.io/Personal_Site)
+* :book: I'm learning on the job
 * :speech_balloon: Ask me about anything, I am happy to help
 * :sparkles: I’m looking for some cool project ideas
-* ✉️  You can contact me at [robbievrdrm@gmail.com](mailto:robbievrdrm@gmail.com)
-* ⚡  I love to play MOBA games and write some code in my free time
+* :mailbox:  You can contact me at [robbievrdrm@gmail.com](mailto:robbievrdrm@gmail.com)
+* :zap:  I love to play MOBA games and write some code in my free time
 
 ### Languages and Tools:
 
