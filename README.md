@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+![github-header-image](https://github.com/RobbieVerdurme/RobbieVerdurme/assets/25928398/65515ef9-3f77-4146-9f06-b3de9cdb3623)
 
 My name is Robbie Verdurme, I was born on 20th of January 1998 in Ghent. I’m graduated with a degree in computer sciences at HoGent. My specialization in my 3th year at HoGent is programming applications for Android and Windows mobile phones. It is a very appealing study as I can put a lot of creativity into code.
 
