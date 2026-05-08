@@ -24,7 +24,7 @@ Hi, I'm **Robbie Verdurme** — a software developer from Herzele, Belgium, pass
 - 🎮 &nbsp; In my free time I enjoy playing **MOBA games** and coding side projects
 - 📬 &nbsp; Reach me at [robbievrdrm@gmail.com](mailto:robbievrdrm@gmail.com)
 
----
+
 
 ## 🛠️ Languages & Technologies
 
@@ -48,7 +48,7 @@ Hi, I'm **Robbie Verdurme** — a software developer from Herzele, Belgium, pass
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
