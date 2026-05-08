@@ -15,31 +15,40 @@
 
 ## 👋 About Me
 
-I'm **Robbie Verdurme**, a full-stack software developer crafting clean, scalable solutions with modern tech. Based in **Herzele, Belgium**, I specialize in building intuitive applications across web and mobile platforms.
+Hi, I'm **Robbie Verdurme** — a software developer from Herzele, Belgium, passionate about building clean and creative applications.
 
-- **🎓 Education** — Computer Sciences graduate from **HoGent** | Mobile Development specialist (Android & Windows)
-- **🚀 Focus Areas** — Full-stack development, cloud infrastructure, and DevOps automation
-- **🎮 Beyond Code** — MOBA gaming enthusiast & perpetual side project builder
-- **🌐 Portfolio** — Explore my work at [robbieverdurme.github.io/Personal_Site](https://robbieverdurme.github.io/Personal_Site/)
-- **💬 Open to** — Collaborations, tech discussions, and helping others
-- **📧 Reach Out** — [robbievrdrm@gmail.com](mailto:robbievrdrm@gmail.com)
+- 🎓 &nbsp; Computer Sciences graduate from **HoGent**, with a specialization in mobile development (Android & Windows)
+- 🌍 &nbsp; Based in **Herzele, Belgium**
+- 💻 &nbsp; Check out my [personal website](https://robbieverdurme.github.io/Personal_Site/)
+- 💬 &nbsp; Ask me about anything — I'm happy to help
+- 🎮 &nbsp; In my free time I enjoy playing **MOBA games** and coding side projects
+- 📬 &nbsp; Reach me at [robbievrdrm@gmail.com](mailto:robbievrdrm@gmail.com)
 
+---
 
 ## 🛠️ Languages & Technologies
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
