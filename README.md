@@ -1,56 +1,64 @@
-![github-header-image](https://github.com/RobbieVerdurme/RobbieVerdurme/assets/25928398/8c47410a-a223-4c57-b979-39e5e453c882)
 
-My name is Robbie Verdurme, I was born on 20th of January 1998 in Ghent. I’m graduated with a degree in computer sciences at HoGent. My specialization in my 3th year at HoGent is programming applications for Android and Windows mobile phones. It is a very appealing study as I can put a lot of creativity into code.
-
-### ⚡️ A quick introduction
-* :earth_africa:  I'm based in Herzele, Belgium
-* :computer:  See my portfolio at [my website](http://robbieverdurme.github.io/Personal_Site)
-* :speech_balloon: Ask me about anything, I am happy to help
-* :sparkles: I’m looking for some cool project ideas
-* :mailbox:  You can contact me at [robbievrdrm@gmail.com](mailto:robbievrdrm@gmail.com)
-* :zap:  I love to play MOBA games and write some code in my free time
-
-### Languages and Tools:
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="36" height="36" alt="SQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="36" height="36" alt="VsCode" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" height="36" alt="Git" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="36" height="36" alt="Docker" /></a>
+<p align="center">
+  <img src="https://github.com/RobbieVerdurme/RobbieVerdurme/assets/25928398/8c47410a-a223-4c57-b979-39e5e453c882" alt="github-header-image" />
 </p>
 
-### Connect with me:
-[<img align="left" alt="Robbie Verdurme | Facebook](https://www.facebook.com/robbie.verdurme)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />][discord]
-[<img align="left" alt="Robbie Verdurme | Facebook](https://www.facebook.com/robbie.verdurme)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />][facebook]
-[<img align="left" alt="[Robbie Verdurme | LinkedIn](https://www.linkedin.com/in/robbie-verdurme)" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />][linkedin]
+<p align="center">
+  <a href="https://robbieverdurme.github.io/Personal_Site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/robbie-verdurme/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/robbie.verdurme"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://discord.com/users/boeferrob"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:robbievrdrm@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-</br>
+---
 
-[website]: https://robbieverdurme.github.io/Personal_Site/
-[facebook]: https://www.facebook.com/robbie.verdurme
-[linkedin]: https://www.linkedin.com/in/robbie-verdurme/
-[discord]: https://discord.com/users/boeferrob
+## 👋 About Me
 
-<br>
+I'm **Robbie Verdurme**, a full-stack software developer crafting clean, scalable solutions with modern tech. Based in **Herzele, Belgium**, I specialize in building intuitive applications across web and mobile platforms.
 
-### 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbieverdurme&layout=compact&langs_count=10)](https://github.com/robbieverdurme/github-readme-stats)
-[![Robbie's github stats](https://github-readme-stats.vercel.app/api?username=robbieverdurme&count_private=true&show_icons=true)](https://github.com/robbieverdurme/github-readme-stats)
+- **🎓 Education** — Computer Sciences graduate from **HoGent** | Mobile Development specialist (Android & Windows)
+- **🚀 Focus Areas** — Full-stack development, cloud infrastructure, and DevOps automation
+- **🎮 Beyond Code** — MOBA gaming enthusiast & perpetual side project builder
+- **🌐 Portfolio** — Explore my work at [robbieverdurme.github.io/Personal_Site](https://robbieverdurme.github.io/Personal_Site/)
+- **💬 Open to** — Collaborations, tech discussions, and helping others
+- **📧 Reach Out** — [robbievrdrm@gmail.com](mailto:robbievrdrm@gmail.com)
+
+
+## 🛠️ Languages & Technologies
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobbieVerdurme&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobbieVerdurme&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobbieVerdurme&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobbieVerdurme&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobbieVerdurme&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RobbieVerdurme&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
